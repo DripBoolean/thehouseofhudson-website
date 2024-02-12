@@ -1,2 +1,2 @@
 # thehouseofhudson-website
-Official website for the House of Hudson
+Repo for the House of Hudson website
